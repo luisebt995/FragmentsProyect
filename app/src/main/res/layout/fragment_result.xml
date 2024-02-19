@@ -9,7 +9,7 @@
     tools:context=".ResultFragment">
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/imgResult"
         android:layout_width="0dp"
         android:layout_height="300dp"
         android:layout_marginStart="55dp"
